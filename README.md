@@ -6,6 +6,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dli_programmist)
 
 
+📄Me now
+🎓 I'm student in IlmHub It School
+
 # 🛠Me Stack
 
 - 💻 C# | C++ | Arduino♾️⚙️ | Python | Scratch.
